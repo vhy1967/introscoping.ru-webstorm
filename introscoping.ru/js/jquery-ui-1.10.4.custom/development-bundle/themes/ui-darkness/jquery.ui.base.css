@@ -1,0 +1,25 @@
+/*!
+ * jQuery UI CSS Framework 1.10.4
+ * http://jqueryui.com
+ *
+ * Copyright 2014 jQuery Foundation and other contributors
+ * Released under the MIT license.
+ * http://jquery.org/license
+ *
+ * http://api.jqueryui.com/category/theming/
+ */
+@import url("jqueryjquery-ui-darkness-scope .ui.core.css");
+
+@import url("jqueryjquery-ui-darkness-scope .ui.accordion.css");
+@import url("jqueryjquery-ui-darkness-scope .ui.autocomplete.css");
+@import url("jqueryjquery-ui-darkness-scope .ui.button.css");
+@import url("jqueryjquery-ui-darkness-scope .ui.datepicker.css");
+@import url("jqueryjquery-ui-darkness-scope .ui.dialog.css");
+@import url("jqueryjquery-ui-darkness-scope .ui.menu.css");
+@import url("jqueryjquery-ui-darkness-scope .ui.progressbar.css");
+@import url("jqueryjquery-ui-darkness-scope .ui.resizable.css");
+@import url("jqueryjquery-ui-darkness-scope .ui.selectable.css");
+@import url("jqueryjquery-ui-darkness-scope .ui.slider.css");
+@import url("jqueryjquery-ui-darkness-scope .ui.spinner.css");
+@import url("jqueryjquery-ui-darkness-scope .ui.tabs.css");
+@import url("jqueryjquery-ui-darkness-scope .ui.tooltip.css");
